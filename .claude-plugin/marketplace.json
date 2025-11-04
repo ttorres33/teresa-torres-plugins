@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ttorres-plugins",
+  "version": "1.0.0",
+  "description": "Teresa Torres' Claude Code plugins for research automation, writing assistance, and productivity",
+  "owner": {
+    "name": "Teresa Torres",
+    "email": "teresa@producttalk.org"
+  },
+  "plugins": [
+    {
+      "name": "research-system",
+      "description": "Automated research paper discovery, PDF monitoring, and AI-powered summarization for academic and technical literature",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "type": "github",
+        "owner": "ttorres33",
+        "repo": "research-system"
+      },
+      "keywords": [
+        "research",
+        "papers",
+        "arxiv",
+        "google-scholar",
+        "summarization",
+        "pdf",
+        "automation"
+      ]
+    }
+  ]
+}
