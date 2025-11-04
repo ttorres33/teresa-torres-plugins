@@ -21,7 +21,7 @@ Automated research paper discovery, PDF monitoring, and AI-powered summarization
 ### Add the Marketplace
 
 ```bash
-/plugin marketplace add ttorres33/ttorres-plugins
+/plugin marketplace add ttorres33/cc-plugins
 ```
 
 ### Install a Plugin
