@@ -14,9 +14,8 @@
       "version": "0.1.0",
       "category": "productivity",
       "source": {
-        "type": "github",
-        "owner": "ttorres33",
-        "repo": "research-system"
+        "source": "github",
+        "repo": "ttorres33/research-system"
       },
       "keywords": [
         "research",
