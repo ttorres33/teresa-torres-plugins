@@ -26,6 +26,23 @@
         "pdf",
         "automation"
       ]
+    },
+    {
+      "name": "project-docs",
+      "description": "Maintains project documentation with process-notes.md for work history and README.md for current state",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "ttorres33/project-docs"
+      },
+      "keywords": [
+        "documentation",
+        "process-notes",
+        "readme",
+        "project-history",
+        "context-management"
+      ]
     }
   ]
 }
