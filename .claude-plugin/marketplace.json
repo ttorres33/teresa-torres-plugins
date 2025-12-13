@@ -11,7 +11,7 @@
     {
       "name": "research-system",
       "description": "Automated research paper discovery, PDF monitoring, and AI-powered summarization for academic and technical literature",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "category": "productivity",
       "source": {
         "source": "github",
@@ -30,7 +30,7 @@
     {
       "name": "project-docs",
       "description": "Maintains project documentation with process-notes.md for work history and README.md for current state",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "github",
