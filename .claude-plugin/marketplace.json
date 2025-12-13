@@ -11,7 +11,7 @@
     {
       "name": "research-system",
       "description": "Automated research paper discovery, PDF monitoring, and AI-powered summarization for academic and technical literature",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "category": "productivity",
       "source": {
         "source": "github",
