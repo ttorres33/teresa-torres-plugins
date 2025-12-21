@@ -29,8 +29,8 @@
     },
     {
       "name": "project-docs",
-      "description": "Maintains project documentation with process-notes.md for work history, README.md for current state, and A/B test documentation",
-      "version": "0.2.0",
+      "description": "Maintains project documentation: README.md (what/how to use), ARCHITECTURE.md (design/patterns), process-notes.md (work history), and A/B test docs",
+      "version": "0.3.0",
       "category": "productivity",
       "source": {
         "source": "github",
@@ -40,6 +40,7 @@
         "documentation",
         "process-notes",
         "readme",
+        "architecture",
         "project-history",
         "context-management",
         "ab-test",
