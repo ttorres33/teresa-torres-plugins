@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "cc-plugins",
+  "name": "teresa-torres-plugins",
   "version": "1.0.0",
   "description": "Teresa Torres' Claude Code plugins for research automation, writing assistance, and productivity",
   "owner": {
