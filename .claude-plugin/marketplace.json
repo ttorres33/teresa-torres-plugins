@@ -46,6 +46,24 @@
         "ab-test",
         "experiments"
       ]
+    },
+    {
+      "name": "task-management",
+      "description": "Markdown-based task management with daily/weekly views, archiving, and idea tracking",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "ttorres33/task-management"
+      },
+      "keywords": [
+        "tasks",
+        "productivity",
+        "markdown",
+        "obsidian",
+        "daily-planning",
+        "weekly-review"
+      ]
     }
   ]
 }
