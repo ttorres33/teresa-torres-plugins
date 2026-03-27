@@ -30,7 +30,7 @@
     {
       "name": "project-docs",
       "description": "Maintains project documentation: README.md (what/how to use), ARCHITECTURE.md (design/patterns), process-notes.md (work history), and A/B test docs",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "category": "productivity",
       "source": {
         "source": "github",
@@ -50,7 +50,7 @@
     {
       "name": "task-management",
       "description": "Markdown-based task management with daily/weekly views, archiving, and idea tracking",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "category": "productivity",
       "source": {
         "source": "github",
