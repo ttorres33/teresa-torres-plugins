@@ -2,3 +2,6 @@
 project-docs/
 research-system/
 task-management/
+
+# Claude Code working files (plans, process notes — not for version control)
+.claude/

@@ -29,8 +29,8 @@
     },
     {
       "name": "project-docs",
-      "description": "Maintains project documentation: README.md (what/how to use), ARCHITECTURE.md (design/patterns), process-notes.md (work history), and A/B test docs",
-      "version": "0.4.2",
+      "description": "Maintains project documentation: README.md (what/how to use), ARCHITECTURE.md (design/patterns), process-notes/ (per-entry work history), and A/B test docs",
+      "version": "0.5.0",
       "category": "productivity",
       "source": {
         "source": "github",
