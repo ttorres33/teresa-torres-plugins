@@ -61,16 +61,16 @@ wishes, set goals for the year ahead, and refine them into goals you can judge a
 ### Add the Marketplace
 
 ```bash
-/plugin marketplace add ttorres33/teresa-torres-plugins
+/plugin marketplace add https://github.com/ttorres33/teresa-torres-plugins.git
 ```
 
 ### Install a Plugin
 
 ```bash
-/plugin install research-system
-/plugin install task-management
-/plugin install project-docs
-/plugin install annual-review
+/plugin install research-system@teresa-torres-plugins
+/plugin install task-management@teresa-torres-plugins
+/plugin install project-docs@teresa-torres-plugins
+/plugin install annual-review@teresa-torres-plugins
 ```
 
 ## License
