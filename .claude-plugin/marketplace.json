@@ -64,6 +64,26 @@
         "daily-planning",
         "weekly-review"
       ]
+    },
+    {
+      "name": "annual-review",
+      "description": "Guided annual review: reflect on your year one area of life at a time, write 100 wishes, set goals for the year ahead, and refine them into goals you can judge and track",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "ttorres33/annual-review"
+      },
+      "keywords": [
+        "annual-review",
+        "year-end-review",
+        "reflection",
+        "goals",
+        "goal-setting",
+        "planning",
+        "100-wishes",
+        "markdown"
+      ]
     }
   ]
 }

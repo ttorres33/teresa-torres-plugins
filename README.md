@@ -42,6 +42,20 @@ and A/B test documentation.
 
 [View Plugin →](https://github.com/ttorres33/project-docs)
 
+### Annual Review
+A guided annual review: reflect on your year one area of life at a time, write 100
+wishes, set goals for the year ahead, and refine them into goals you can judge and track.
+
+**Features:**
+- Four exercises (reflect, 100 wishes, set goals, refine goals), run in order or on their own
+- Goes through your year by area of life (work, health, relationships, and more), with categories you can customize
+- Shows earlier answers as you go: last year's goals, your reflection, and related wishes
+- Wishes that keep showing up across years, as a signal of what to prioritize
+- Plain markdown files in a folder you choose, saved as you go so you can stop and pick up later
+- No other tools needed
+
+[View Plugin →](https://github.com/ttorres33/annual-review)
+
 ## Installation
 
 ### Add the Marketplace
@@ -56,6 +70,7 @@ and A/B test documentation.
 /plugin install research-system
 /plugin install task-management
 /plugin install project-docs
+/plugin install annual-review
 ```
 
 ## License
